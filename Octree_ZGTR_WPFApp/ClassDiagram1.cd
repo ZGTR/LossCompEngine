@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Octree_ZGTR_WPFApp.App" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.ColorTableWindow" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABAAAAAQAAAAAAAAAAAAABAAAAQAQACAIAAAAAQAA=</HashCode>
+      <FileName>ColorTableWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.MainWindow" Collapsed="true">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAIAAAAAAAAAQAAIAEAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.Engine.DynamicDataDisplay.Point" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAYBA=</HashCode>
+      <FileName>Engine\DynamicDataDisplay\Point.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.Engine.EncodingPackage.EncodingConverter" Collapsed="true">
+    <Position X="16.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAIABAgAAAEAAAACAEIABQCRBAAAAgAAAAE=</HashCode>
+      <FileName>Engine\EncodingPackage\EncodingConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.Engine.GUI.ColorTableTriple" Collapsed="true">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAEAAAAAgAA=</HashCode>
+      <FileName>Engine\GUI\ColorTableTriple.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.Engine.GUI.GUIController" Collapsed="true">
+    <Position X="11.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\GUI\GUIController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.Engine.GUI.ImageContainer" Collapsed="true">
+    <Position X="15" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAIAAAAACAAIAAQAAABAAAGBEAAQBABAAAAAAAAQAA=</HashCode>
+      <FileName>Engine\GUI\ImageContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.Engine.GUI.TimeChecker" Collapsed="true">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEACAAAAAABBAAAAAAAgAAAAAAAg=</HashCode>
+      <FileName>Engine\GUI\TimeChecker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.Engine.HelperModule" Collapsed="true">
+    <Position X="13.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAACQAAAAAAAAAAE=</HashCode>
+      <FileName>Engine\HelperModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.Engine.ImageController.ImageController" Collapsed="true">
+    <Position X="16.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABSAAAAAAAAAAAAAAAAgAI=</HashCode>
+      <FileName>Engine\ImageController\ImageController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.Engine.OctreeTree.ColorTable" Collapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCAAAAAAAAAAgAAAAABQAAAEAFAAAAAAAQAgIAAAAA=</HashCode>
+      <FileName>Engine\OctreeTree\ColorTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.Engine.OctreeTree.Node" Collapsed="true">
+    <Position X="9.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAQEAACAAAEEQoAAgAAAQABAAAggAAAAAA=</HashCode>
+      <FileName>Engine\OctreeTree\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.Engine.OctreeTree.MappingFunctions.ColorComponent" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAACAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\OctreeTree\MappingFunctions\ColorComponent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.Engine.OctreeTree.MappingFunctions.ColorComponentsSum" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\OctreeTree\MappingFunctions\ColorComponentsSum.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.Engine.OctreeTree.MappingFunctions.ColorWeightedComponentSum" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\OctreeTree\MappingFunctions\ColorWeightedComponentSum.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.Engine.OctreeTree.MappingFunctions.EcludianDistanceARGB" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\OctreeTree\MappingFunctions\EcludianDistanceARGB.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.Engine.OctreeTree.MappingFunctions.EcludianDistanceColorComponents" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\OctreeTree\MappingFunctions\EcludianDistanceColorComponents.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.Engine.OctreeTree.OctreeTypes.AbstractOctree.Octree" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gsADgEABCAJMAIAAAAEAAFAIAQAAIABUAAAWAAAQAAw=</HashCode>
+      <FileName>Engine\OctreeTree\OctreeTypes\AbstractOctree\Octree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.Engine.OctreeTree.OctreeTypes.Balanced.OctreeBalancedLeastC7LCollapsing" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAEAAAEAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\OctreeTree\OctreeTypes\Balanced\OctreeBalancedLeastC7LCollapsing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.Engine.OctreeTree.OctreeTypes.Balanced.OctreeBalancedLeastCAllCollapsing" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAEAAAEAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\OctreeTree\OctreeTypes\Balanced\OctreeBalancedLeastCAllCollapsing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.Engine.OctreeTree.OctreeTypes.Balanced.OctreeBalancedLeastVAllSidesCollapsing" Collapsed="true">
+    <Position X="4.25" Y="4.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAEAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\OctreeTree\OctreeTypes\Balanced\OctreeBalancedLeastVAllSidesCollapsing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.Engine.OctreeTree.OctreeTypes.GIFHelper" Collapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\OctreeTree\OctreeTypes\GIFHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.Engine.OctreeTree.OctreeTypes.UnBalanced.OctreeUnBalancedLeastChilds" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAABoAAAAAIEAAAAAAEAAAAAAAAAIAAAAAACAAAAAAA=</HashCode>
+      <FileName>Engine\OctreeTree\OctreeTypes\UnBalanced\OctreeUnBalancedLeastChilds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.Engine.OctreeTree.OctreeTypes.UnBalanced.OctreeUnBalancedLeastV1SideCollapsing" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAABgAIAAAAAAAAAAAEAAAAAAAAAAAQAAAAAAgAAAAA=</HashCode>
+      <FileName>Engine\OctreeTree\OctreeTypes\UnBalanced\OctreeUnBalancedLeastV1SideCollapsing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.Engine.OctreeTree.OctreeTypes.UnBalanced.OctreeUnBalancedLeastVAllSidesCollapsing" Collapsed="true">
+    <Position X="2.5" Y="3.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\OctreeTree\OctreeTypes\UnBalanced\OctreeUnBalancedLeastVAllSidesCollapsing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.Properties.Resources" Collapsed="true">
+    <Position X="15" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Octree_ZGTR_WPFApp.Properties.Settings" Collapsed="true">
+    <Position X="16.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Octree_ZGTR_WPFApp.Engine.OctreeTree.MappingFunctions.IMappingFunction" Collapsed="true">
+    <Position X="13.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\OctreeTree\MappingFunctions\IMappingFunction.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Octree_ZGTR_WPFApp.Engine.OctreeTree.MappingFunctions.ColorComponentType" Collapsed="true">
+    <Position X="9.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Engine\OctreeTree\MappingFunctions\ColorComponentType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

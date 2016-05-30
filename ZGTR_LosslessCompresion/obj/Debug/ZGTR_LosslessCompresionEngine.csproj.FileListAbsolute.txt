@@ -1,0 +1,214 @@
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\ZGTR_LosslessCompresion.dll
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\ZGTR_LosslessCompresion.pdb
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Design.4.0.dll
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Expression.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Design.4.0.pdb
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Expression.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\obj\Debug\ZGTR_LosslessCompresion.dll
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\ZGTR_LosslessCompresion\obj\Debug\ZGTR_LosslessCompresion.pdb
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\obj\Debug\ZGTR_LosslessCompresionEngine.csprojResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\obj\Debug\ZGTR_LosslessCompresion.dll
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\ZGTR_LosslessCompresion.dll
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\ZGTR_LosslessCompresion.pdb
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Design.4.0.dll
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Expression.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.dll
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Design.4.0.pdb
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Expression.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.pdb
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+C:\Users\ZGTR\Desktop\ZGTR_WPFApp_LosslessCompressionEngine\ZGTR_LosslessCompresion\obj\Debug\ZGTR_LosslessCompresion.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\obj\Debug\ZGTR_LosslessCompresion.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\ZGTR_LosslessCompresion.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\ZGTR_LosslessCompresion.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Design.4.0.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Expression.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Design.4.0.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Expression.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-LZ77Working\ZGTR_LosslessCompresion\obj\Debug\ZGTR_LosslessCompresion.pdb
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\ZGTR_LosslessCompresion.dll
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\ZGTR_LosslessCompresion.pdb
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Design.4.0.dll
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Expression.Design.dll
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.Design.dll
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.Design.dll
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.Design.dll
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.dll
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Design.4.0.pdb
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Expression.Design.pdb
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.Design.pdb
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.Design.pdb
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.pdb
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.Design.pdb
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\obj\Debug\ZGTR_LosslessCompresionEngine.csprojResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\obj\Debug\ZGTR_LosslessCompresion.dll
+C:\Users\ZGTR\Desktop\fromHOMEPC_April 24, 2012\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\obj\Debug\ZGTR_LosslessCompresion.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\ZGTR_LosslessCompresion.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\ZGTR_LosslessCompresion.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Design.4.0.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Expression.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Design.4.0.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Expression.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\obj\Debug\ZGTR_LosslessCompresion.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\ZGTR_WPFApp_LosslessCompressionEngine-April 24,2012\ZGTR_LosslessCompresion\obj\Debug\ZGTR_LosslessCompresion.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\ZGTR_LosslessCompresion.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\ZGTR_LosslessCompresion.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Design.4.0.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Expression.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Design.4.0.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Expression.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Controls.Layout.Toolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\WPFToolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\obj\Debug\ZGTR_LosslessCompresion.dll
+C:\Users\ZGTR\Desktop\ZGTR_LosslessCompresionEngine\ZGTR_CompressionEngine_Solutions\WPFApp_LossCompEngine-April 28 - Final\ZGTR_LosslessCompresion\obj\Debug\ZGTR_LosslessCompresion.pdb

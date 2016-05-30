@@ -1,0 +1,53 @@
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\Octree_ZGTR_WPFApp.exe
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\Octree_ZGTR_WPFApp.pdb
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\DynamicDataDisplay.dll
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Design.4.0.dll
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Expression.Design.dll
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\System.Windows.Controls.Input.Toolkit.Design.dll
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\System.Windows.Controls.Layout.Toolkit.Design.dll
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\System.Windows.Controls.Layout.Toolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\WPFToolkit.Design.dll
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\WPFToolkit.dll
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\WPFToolkit.VisualStudio.Design.dll
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\DynamicDataDisplay.xml
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Design.4.0.pdb
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Expression.Design.pdb
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\System.Windows.Controls.Input.Toolkit.Design.pdb
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\System.Windows.Controls.Layout.Toolkit.Design.pdb
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\System.Windows.Controls.Layout.Toolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\WPFToolkit.pdb
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\WPFToolkit.Design.pdb
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\WPFToolkit.VisualStudio.Design.pdb
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\obj\x86\Debug\Octree_ZGTR_WPFApp.csprojResolveAssemblyReference.cache
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\obj\x86\Debug\ExpressionDark.baml
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\obj\x86\Debug\MainWindow.baml
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\obj\x86\Debug\App.baml
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\obj\x86\Debug\App.g.cs
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\obj\x86\Debug\Octree_ZGTR_WPFApp_MarkupCompile.cache
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\obj\x86\Debug\Octree_ZGTR_WPFApp.g.resources
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\obj\x86\Debug\Octree_ZGTR_WPFApp.Properties.Resources.resources
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\obj\x86\Debug\Octree_ZGTR_WPFApp.csproj.GenerateResource.Cache
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\obj\x86\Debug\Octree_ZGTR_WPFApp.exe
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\obj\x86\Debug\Octree_ZGTR_WPFApp.pdb
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\obj\x86\Debug\ColorTableWindow.baml
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\obj\x86\Debug\ColorTableWindow.g.cs
+J:\ZGTR\College\4th Year\Term2\Subs\ZGTR_Projects\Multimedia\HW1_ZGTROctree\ZGTR\App\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\obj\x86\Debug\Octree_ZGTR_WPFApp.exe
+J:\ZGTR\College\4th Year\Term2\Subs\ZGTR_Projects\Multimedia\HW1_ZGTROctree\ZGTR\App\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\obj\x86\Debug\Octree_ZGTR_WPFApp.pdb
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\obj\x86\Debug\Octree_ZGTR_WPFApp.exe
+C:\Users\ZGTR\Desktop\ZGTR_Lossless Compresion\Octree_ZGTR_WPFApp\Octree_ZGTR_WPFApp\obj\x86\Debug\Octree_ZGTR_WPFApp.pdb

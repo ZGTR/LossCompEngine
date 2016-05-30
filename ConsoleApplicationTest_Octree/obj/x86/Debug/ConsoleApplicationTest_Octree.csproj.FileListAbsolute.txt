@@ -1,0 +1,10 @@
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\ConsoleApplicationTest_Octree\bin\Debug\ConsoleApplicationTest_Octree.exe
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\ConsoleApplicationTest_Octree\bin\Debug\ConsoleApplicationTest_Octree.pdb
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\ConsoleApplicationTest_Octree\bin\Debug\Octree_ZGTR_WPFApp.exe
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\ConsoleApplicationTest_Octree\bin\Debug\Octree_ZGTR_WPFApp.pdb
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\ConsoleApplicationTest_Octree\obj\x86\Debug\ConsoleApplicationTest_Octree.csprojResolveAssemblyReference.cache
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\ConsoleApplicationTest_Octree\obj\x86\Debug\ConsoleApplicationTest_Octree.exe
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\ConsoleApplicationTest_Octree\obj\x86\Debug\ConsoleApplicationTest_Octree.pdb
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\ConsoleApplicationTest_Octree\bin\Debug\DynamicDataDisplay.dll
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\ConsoleApplicationTest_Octree\bin\Debug\DynamicDataDisplay.xml
+C:\Users\ZGTR\documents\visual studio 2010\Projects\Octree_ZGTR_WPFApp\ConsoleApplicationTest_Octree\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll

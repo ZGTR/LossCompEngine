@@ -1,0 +1,406 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="List" priority="12" />
+      <Item value="PhraseToken`0" priority="2" />
+      <Item value="this" priority="13" />
+      <Item value="encodedStream" priority="1" />
+      <Item value="if" priority="10" />
+      <Item value="currentToken" priority="4" />
+      <Item value="decodedStream" priority="3" />
+      <Item value="else" priority="10" />
+      <Item value="matchLength" priority="3" />
+      <Item value="offset" priority="0" />
+      <Item value="strDecoded" priority="0" />
+      <Item value="return" priority="10" />
+      <Item value="public" priority="4" />
+      <Item value="void" priority="0" />
+      <Item value="DecodeStream`0" priority="0" />
+      <Item value="LZ77AlgorithmDecoder`0" priority="0" />
+      <Item value="offsetInWindow" priority="0" />
+      <Item value="character" priority="1" />
+      <Item value="bitmap" priority="1" />
+      <Item value="private" priority="5" />
+      <Item value="for" priority="3" />
+      <Item value="string" priority="7" />
+      <Item value="streamIds" priority="0" />
+      <Item value="Select`2" priority="0" />
+      <Item value="NotImplementedException`0" priority="0" />
+      <Item value="num" priority="0" />
+      <Item value="TextManipulator`0" priority="1" />
+      <Item value="ImageManipulator`0" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="StringBuilder`0" priority="0" />
+      <Item value="new" priority="22" />
+      <Item value="StringBuilder" priority="0" />
+      <Item value="String`0" priority="0" />
+      <Item value="ToList`1" priority="0" />
+      <Item value="i" priority="1" />
+      <Item value="streamOfIds" priority="0" />
+      <Item value="bool" priority="4" />
+      <Item value="false" priority="4" />
+      <Item value="postSymbol" priority="0" />
+      <Item value="listOfStrings" priority="2" />
+      <Item value="object" priority="0" />
+      <Item value="List&lt;Color&gt;" priority="0" />
+      <Item value="true" priority="1" />
+      <Item value="listOfDataUnits" priority="1" />
+      <Item value="int" priority="14" />
+      <Item value="List&lt;string&gt;" priority="1" />
+      <Item value="listToReturn" priority="1" />
+      <Item value="DataUnit`0" priority="0" />
+      <Item value="ref" priority="3" />
+      <Item value="currentDataUnit" priority="0" />
+      <Item value="newLineCounter" priority="0" />
+      <Item value="isEvenLine" priority="0" />
+      <Item value="imageWidth" priority="0" />
+      <Item value="listTemp" priority="0" />
+      <Item value="StreamWriter" priority="0" />
+      <Item value="fileStringUri" priority="0" />
+      <Item value="StreamReader`0" priority="1" />
+      <Item value="decoder" priority="1" />
+      <Item value="StreamWriter`0" priority="0" />
+      <Item value="TextBox`0" priority="0" />
+      <Item value="FileDialog`0" priority="0" />
+      <Item value="RLEBasic`0" priority="0" />
+      <Item value="GUIController`0" priority="8" />
+      <Item value="static" priority="1" />
+      <Item value="MainWindow`0" priority="0" />
+      <Item value="mainWindow" priority="0" />
+      <Item value="Algorithm`0" priority="10" />
+      <Item value="RLEBasic" priority="0" />
+      <Item value="algo" priority="0" />
+      <Item value="switch" priority="2" />
+      <Item value="_mainWindow" priority="5" />
+      <Item value="try" priority="5" />
+      <Item value="MessageBox`0" priority="1" />
+      <Item value="case" priority="3" />
+      <Item value="break" priority="2" />
+      <Item value="File`0" priority="2" />
+      <Item value="catch" priority="0" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="BitmapImage" priority="1" />
+      <Item value="Uri" priority="2" />
+      <Item value="RelativeOrAbsolute" priority="1" />
+      <Item value="null" priority="0" />
+      <Item value="const" priority="0" />
+      <Item value="StackPanel`0" priority="2" />
+      <Item value="stackPanel" priority="0" />
+      <Item value="Image" priority="6" />
+      <Item value="_timeTaken" priority="1" />
+      <Item value="Bitmap`0" priority="2" />
+      <Item value="_imageStringPath" priority="1" />
+      <Item value="ImageSource`0" priority="0" />
+      <Item value="ImageSourceConverter`0" priority="1" />
+      <Item value="BitmapImage`0" priority="3" />
+      <Item value="UriKind`0" priority="5" />
+      <Item value="ImageContainer`0" priority="1" />
+      <Item value="currentImagePath" priority="0" />
+      <Item value="buttonExit" priority="0" />
+      <Item value="uriKind" priority="2" />
+      <Item value="_uriKind" priority="0" />
+      <Item value="Absolute" priority="0" />
+      <Item value="ArithmeticCoder" priority="0" />
+      <Item value="Int32`0" priority="0" />
+      <Item value="TimeoutException`0" priority="0" />
+      <Item value="double" priority="3" />
+      <Item value="TimeChecker" priority="0" />
+      <Item value="Drawing" priority="2" />
+      <Item value="Windows" priority="0" />
+      <Item value="bitmapDecoded" priority="0" />
+      <Item value="ThreadStaticAttribute`0" priority="1" />
+      <Item value="Thread" priority="0" />
+      <Item value="Thread`0" priority="0" />
+      <Item value="ThreadStart" priority="2" />
+      <Item value="Math`0" priority="1" />
+      <Item value="bitmapForm" priority="1" />
+      <Item value="as" priority="1" />
+      <Item value="sd" priority="0" />
+      <Item value="JpegBitmapEncoder`0" priority="0" />
+      <Item value="dim" priority="1" />
+      <Item value="arrSubDim" priority="2" />
+      <Item value="_colorArr" priority="0" />
+      <Item value="GetLength`0" priority="0" />
+      <Item value="intArrDimLeft" priority="0" />
+      <Item value="intArrDimRight" priority="0" />
+      <Item value="j" priority="0" />
+      <Item value="RLEQuadTree`0" priority="4" />
+      <Item value="RLEQuadTree" priority="0" />
+      <Item value="colorArr" priority="0" />
+      <Item value="tree" priority="0" />
+      <Item value="RLEMethod1`0" priority="0" />
+      <Item value="FileStream`0" priority="0" />
+      <Item value="imagePath" priority="1" />
+      <Item value="Open" priority="0" />
+      <Item value="f" priority="0" />
+      <Item value="FileInfo`0" priority="0" />
+      <Item value="fileInfo" priority="1" />
+      <Item value="FileInfo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_LosslessCompresion.AdaptiveDictionary.PhraseToken">
+      <Item value="IsRawToken" priority="0" />
+      <Item value="StrInDictionary" priority="1" />
+      <Item value="Offset" priority="0" />
+      <Item value="MatchLength" priority="0" />
+      <Item value="FirstPostSymbol" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="2" />
+      <Item value="Count" priority="8" />
+      <Item value="AddRange`0" priority="2" />
+      <Item value="Select`2" priority="1" />
+      <Item value="Where`1" priority="0" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="Reverse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_LosslessCompresion.AdaptiveDictionary.LZ77AlgorithmDecoder">
+      <Item value="SlidingWindow" priority="1" />
+      <Item value="DecodeImage`0" priority="1" />
+      <Item value="TestMe`0" priority="0" />
+      <Item value="DecodeStream`0" priority="0" />
+      <Item value="EnocededStream" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_LosslessCompresion.AdaptiveDictionary.SlidingWindow">
+      <Item value="SlideAhead`0" priority="0" />
+      <Item value="WindowString" priority="0" />
+      <Item value="_window" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Substring`0" priority="0" />
+      <Item value="ToList`1" priority="0" />
+      <Item value="Select`2" priority="1" />
+      <Item value="ToArray`1" priority="0" />
+      <Item value="Split`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_LosslessCompresion.AdaptiveDictionary.LZ77AlgorithmEncoder">
+      <Item value="EncodeImage`0" priority="1" />
+      <Item value="TestMe`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Char">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append`0" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Bitmap">
+      <Item value="Size" priority="0" />
+      <Item value="Width" priority="1" />
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadToEnd`0" priority="1" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="Write`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ZGTR_LosslessCompresion.ImageController.ImageManipulator">
+      <Item value="ConvertTo1DimArrSBSStringImage`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_LossCompWPFApp.MainWindow">
+      <Item value="textBoxTextIn" priority="2" />
+      <Item value="rbRLEBasicT" priority="0" />
+      <Item value="rbLZWT" priority="0" />
+      <Item value="rbLZ77T" priority="0" />
+      <Item value="rbRLEMethod1I" priority="0" />
+      <Item value="rbRLEQTI" priority="0" />
+      <Item value="textBoxTextOut" priority="1" />
+      <Item value="rbArithmeticI" priority="0" />
+      <Item value="rbArithmeticT" priority="0" />
+      <Item value="stackPanelImageHorizontal" priority="0" />
+      <Item value="textBoxWindowI" priority="0" />
+      <Item value="textBoxBufferI" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Text" priority="3" />
+      <Item value="Clear`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Win32.OpenFileDialog">
+      <Item value="Filter" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.RadioButton">
+      <Item value="IsChecked" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ZGTR_LosslessCompresion.Algorithm">
+      <Item value="LZW" priority="2" />
+      <Item value="LZ77" priority="2" />
+      <Item value="RLEMethod1" priority="1" />
+      <Item value="RLEQuadTree" priority="2" />
+      <Item value="RLEBasic" priority="1" />
+      <Item value="Arithmetic" priority="2" />
+      <Item value="RLEMethod2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ZGTR_LossCompWPFApp.GUIController">
+      <Item value="GetAlgorithmChosenImage`0" priority="0" />
+      <Item value="ImageTargetDecode" priority="0" />
+      <Item value="ImageTargetDecodedPath" priority="2" />
+      <Item value="TextInEncodePath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Border">
+      <Item value="Padding" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="WriteAllText`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Octree_ZGTR_WPFApp.Engine.GUI.ImageContainer">
+      <Item value="_stackPanelContainer" priority="1" />
+      <Item value="Image" priority="1" />
+      <Item value="_timeTaken" priority="0" />
+      <Item value="_imageStringPath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Image">
+      <Item value="Source" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.ImageSource">
+      <Item value="ShouldSerializeStoredWeakReference`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.ImageSourceConverter">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ZGTR_LosslessCompresion.ImageEngine.TextManipulator">
+      <Item value="ConvertTo1DimArr`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.UriKind">
+      <Item value="RelativeOrAbsolute" priority="2" />
+      <Item value="Relative" priority="2" />
+      <Item value="Absolute" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.StackPanel">
+      <Item value="CheckAccess`0" priority="0" />
+      <Item value="Children" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.UIElementCollection">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_LossCompWPFApp.ImageContainer">
+      <Item value="Parent" priority="0" />
+      <Item value="_uriKind" priority="0" />
+      <Item value="ImageDisplayed" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Compression.ArCoder">
+      <Item value="encodeAndDecode`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ZGTR_LossCompWPFApp.GraphicsEngine.TimeChecker">
+      <Item value="S1`0" priority="0" />
+      <Item value="S2`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ZGTR_LossCompWPFApp.GraphicsEngine.ImageController">
+      <Item value="ConvertToWPFBitmapImage`0" priority="0" />
+      <Item value="ConvertToWPFImage`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Start`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="PI" priority="0" />
+      <Item value="Min`0" priority="0" />
+      <Item value="Ceiling`0" priority="3" />
+      <Item value="Floor`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Win32.SaveFileDialog">
+      <Item value="FileName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileInfo">
+      <Item value="Length" priority="2" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6C67C1D8-35D4-44A8-8362-5BF58997F4F7/f:Program.cs" caret="3035" fromTop="17" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:AdaptiveDictionary/d:LZ77/f:LZ77AlgorithmDecoder.cs" caret="2419" fromTop="55" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:AdaptiveDictionary/d:LZ77/f:LZ77AlgorithmEncoder.cs" caret="3216" fromTop="43" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:AdaptiveDictionary/d:LZW/f:LZWAlgorithmEncoder.cs" caret="693" fromTop="21" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/f:MainWindow.xaml" caret="7124" fromTop="6" />
+      <File id="55C8F39D-C948-4A16-9D23-8378E3DA7431/d:Properties/f:Resources.Designer.cs" caret="580" fromTop="14" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:RLE/d:RLEMethods/d:QuadTree/d:Tree/f:Area.cs" caret="275" fromTop="13" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:Arithmetic/f:ArCoder.cs" caret="2071" fromTop="36" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:Arithmetic/f:ArithmaticCompression.cs" caret="471" fromTop="18" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:GUI/f:TimeChecker.cs" caret="327" fromTop="12" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/f:HelperModule.cs" caret="791" fromTop="0" />
+      <File id="55C8F39D-C948-4A16-9D23-8378E3DA7431/d:GraphicsEngine/f:TimeChecker.cs" caret="28" fromTop="1" />
+      <File id="55C8F39D-C948-4A16-9D23-8378E3DA7431/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:GUI/f:ImageContainer.cs" caret="1059" fromTop="18" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:OctreeTree/f:ColorTable.cs" caret="3233" fromTop="23" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/d:Engine/d:ImageController/f:ImageController.cs" caret="5474" fromTop="20" />
+      <File id="55C8F39D-C948-4A16-9D23-8378E3DA7431/d:GraphicsEngine/f:ImageController.cs" caret="987" fromTop="4" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:Helpers/f:ImageManipulator.cs" caret="2633" fromTop="30" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:RLE/d:RLEMethods/f:RLEMethod1.cs" caret="0" fromTop="0" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:RLE/d:RLEMethods/f:RLEMethod2.cs" caret="0" fromTop="0" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:RLE/d:RLEMethods/f:RLEBasic.cs" caret="5115" fromTop="69" />
+      <File id="4892FDC0-6267-433E-8C28-11F2C3DD8B44/f:MainWindow.xaml.cs" caret="3903" fromTop="34" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:RLE/d:RLEMethods/d:QuadTree/d:Tree/f:RLETreeNode.cs" caret="1183" fromTop="19" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:RLE/d:RLEMethods/d:QuadTree/d:Tree/f:RLEQuadTree.cs" caret="11282" fromTop="57" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:RLE/d:RLEMethods/d:QuadTree/f:RLEMethodQT.cs" caret="583" fromTop="17" />
+      <File id="55C8F39D-C948-4A16-9D23-8378E3DA7431/d:GraphicsEngine/f:ImageContainer.cs" caret="1141" fromTop="9" />
+      <File id="55C8F39D-C948-4A16-9D23-8378E3DA7431/f:MainWindow.xaml" caret="3798" fromTop="11" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:Helpers/f:CompressionDataInfo.cs" caret="221" fromTop="9" />
+      <File id="55C8F39D-C948-4A16-9D23-8378E3DA7431/f:MainWindow.xaml.cs" caret="2416" fromTop="28" />
+      <File id="55C8F39D-C948-4A16-9D23-8378E3DA7431/d:GraphicsEngine/f:GUIController.cs" caret="3841" fromTop="9" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:RLE/d:RLEMethods/d:QuadTree/d:Tree/f:RLEQuadTree.cs" caret="1245" fromTop="9" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:RLE/d:RLEMethods/d:QuadTree/d:Tree/f:RLEQuadTree.cs" caret="1110" fromTop="3" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:RLE/d:RLEMethods/d:QuadTree/d:Tree/f:RLEQuadTree.cs" caret="1234" fromTop="7" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:RLE/d:RLEMethods/d:QuadTree/d:Tree/f:RLEQuadTree.cs" caret="3933" fromTop="20" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:RLE/d:RLEMethods/d:QuadTree/d:Tree/f:RLEQuadTree.cs" caret="10691" fromTop="29" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:RLE/d:RLEMethods/d:QuadTree/d:Tree/f:RLEQuadTree.cs" caret="10843" fromTop="15" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:RLE/d:RLEMethods/d:QuadTree/d:Tree/f:RLEQuadTree.cs" caret="9915" fromTop="19" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:RLE/d:RLEMethods/d:QuadTree/d:Tree/f:RLEQuadTree.cs" caret="2403" fromTop="10" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:RLE/d:RLEMethods/d:QuadTree/f:RLEMethodQT.cs" caret="694" fromTop="33" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:RLE/d:RLEMethods/d:QuadTree/f:RLEMethodQT.cs" caret="304" fromTop="10" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:RLE/d:RLEMethods/d:QuadTree/f:RLEMethodQT.cs" caret="341" fromTop="12" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:RLE/d:RLEMethods/d:QuadTree/f:RLEMethodQT.cs" caret="583" fromTop="17" />
+      <File id="55C8F39D-C948-4A16-9D23-8378E3DA7431/d:GraphicsEngine/f:GUIController.cs" caret="7322" fromTop="23" />
+      <File id="55C8F39D-C948-4A16-9D23-8378E3DA7431/d:GraphicsEngine/f:GUIController.cs" caret="9435" fromTop="42" />
+      <File id="55C8F39D-C948-4A16-9D23-8378E3DA7431/d:GraphicsEngine/f:ImageContainer.cs" caret="1324" fromTop="31" />
+      <File id="55C8F39D-C948-4A16-9D23-8378E3DA7431/d:GraphicsEngine/f:ImageContainer.cs" caret="1741" fromTop="41" />
+      <File id="55C8F39D-C948-4A16-9D23-8378E3DA7431/d:GraphicsEngine/f:ImageContainer.cs" caret="695" fromTop="12" />
+      <File id="55C8F39D-C948-4A16-9D23-8378E3DA7431/d:GraphicsEngine/f:GUIController.cs" caret="9208" fromTop="28" />
+      <File id="55C8F39D-C948-4A16-9D23-8378E3DA7431/d:GraphicsEngine/f:GUIController.cs" caret="8994" fromTop="23" />
+      <File id="55C8F39D-C948-4A16-9D23-8378E3DA7431/d:GraphicsEngine/f:ImageContainer.cs" caret="1486" fromTop="43" />
+      <File id="55C8F39D-C948-4A16-9D23-8378E3DA7431/d:GraphicsEngine/f:ImageContainer.cs" caret="1107" fromTop="33" />
+      <File id="55C8F39D-C948-4A16-9D23-8378E3DA7431/f:MainWindow.xaml.cs" caret="1993" fromTop="25" />
+      <File id="55C8F39D-C948-4A16-9D23-8378E3DA7431/f:MainWindow.xaml.cs" caret="3086" fromTop="44" />
+      <File id="55C8F39D-C948-4A16-9D23-8378E3DA7431/f:MainWindow.xaml" caret="3798" fromTop="11" />
+      <File id="55C8F39D-C948-4A16-9D23-8378E3DA7431/d:GraphicsEngine/f:GUIController.cs" caret="5910" fromTop="39" />
+      <File id="55C8F39D-C948-4A16-9D23-8378E3DA7431/d:GraphicsEngine/f:GUIController.cs" caret="6107" fromTop="14" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:Helpers/f:CompressionDataInfo.cs" caret="912" fromTop="12" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:Helpers/f:CompressionDataInfo.cs" caret="735" fromTop="13" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:Helpers/f:CompressionDataInfo.cs" caret="527" fromTop="11" />
+      <File id="764730EB-1D2D-44C4-B620-2699F9300EFC/d:Helpers/f:CompressionDataInfo.cs" caret="458" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

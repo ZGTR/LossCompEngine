@@ -1,0 +1,129 @@
+﻿<Window x:Class="Octree_ZGTR_WPFApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d3="http://research.microsoft.com/DynamicDataDisplay/1.0"
+        Title="MainWindow" Height="755" Width="1382">
+    <Grid>
+        <StackPanel Orientation="Horizontal" Margin="0,0,-51,0">
+            <Border Height="705" BorderThickness="2" BorderBrush="DarkSlateGray">
+            <StackPanel Width="223">
+                <StackPanel.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="White" Offset="0" />
+                        <GradientStop Color="#FF141414" Offset="0.086" />
+                    </LinearGradientBrush>
+                </StackPanel.Background>
+                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10" FontSize="13" FontWeight="Bold">
+                    Control Panel
+                </TextBlock>
+                <GroupBox Height="660" Width="208">
+                    <StackPanel Height="624">
+                        <Button Height="24" Margin="10" Name="buttonChooseInputImage" Click="buttonChooseInputImage_Click">
+                            Choose Input Image
+                        </Button>
+                        <StackPanel Orientation="Horizontal" Margin="5">
+                                <TextBlock Margin="5" VerticalAlignment="Center">
+                                    ColorTableDim
+                                </TextBlock>
+                                <TextBox Name="textBoxColorTableDim" HorizontalContentAlignment="Center" Margin="5" Width="86" Height="19" VerticalAlignment="Center">
+                                    256
+                                </TextBox>
+                        </StackPanel>
+                        <GroupBox>
+                            <StackPanel>
+                                <TextBlock HorizontalAlignment="Center"  VerticalAlignment="Center" Margin="10" FontSize="13" FontWeight="Bold">
+                                    Conversion Octree Type
+                                </TextBlock>
+                                    <Expander Header="Octee Type">
+                                        <StackPanel>                                    
+                                                    <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5" FontSize="13" FontWeight="Bold">
+                                                        Balanced
+                                                    </TextBlock>
+                                                     <RadioButton Name="rbc1" Margin="3">
+                                                            Least childs, 7th Level
+                                                    </RadioButton>
+                                                     <RadioButton Name="rbc2" Margin="3">
+                                                        Least childs, all Collapsing
+                                                    </RadioButton>
+                                                      <RadioButton Name="rbc3" Margin="3">
+                                                        Least visited, all sides
+                                                    </RadioButton>
+
+                                     
+                                                    <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5" FontSize="13" FontWeight="Bold">
+                                                        UnBalanced
+                                                    </TextBlock>
+
+                                                    <RadioButton Name="rbc4" Margin="3">
+                                                        Least childs
+                                                    </RadioButton>
+                                                    <RadioButton Name="rbc5" Margin="3">
+                                                        Least visited, one side
+                                                    </RadioButton>
+                                                     <RadioButton Name="rbc6" Margin="3">
+                                                        Least visited, all sides
+                                                    </RadioButton>
+                                            
+                                        </StackPanel>
+                                    </Expander>
+                                </StackPanel>
+                        </GroupBox>
+                        <GroupBox>
+                            <StackPanel>
+                                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10" FontSize="13" FontWeight="Bold">
+                                    Color Table Mapping
+                                </TextBlock>
+                                <Expander Header="Mapping Type">
+                                    <StackPanel>
+                                        <RadioButton Name="rbm1" Margin="2">
+                                            Color Component R
+                                        </RadioButton>
+                                        <RadioButton Name="rbm2" Margin="2">
+                                                Color Component G
+                                        </RadioButton>
+                                        <RadioButton Name="rbm3" Margin="2">
+                                                Color Component B
+                                        </RadioButton>
+                                        <RadioButton Name="rbm4" Margin="2">
+                                                Color Comps Sum
+                                        </RadioButton>
+                                        <RadioButton Name="rbm5" Margin="2">
+                                                Color Weighted Comps Sum
+                                        </RadioButton>
+                                        <RadioButton Name="rbm6" Margin="2">
+                                                Ecl. Distance ARGB
+                                        </RadioButton>
+                                        <RadioButton Name="rbm7" Margin="2">
+                                                Ecl. Distance Color Comps
+                                        </RadioButton>
+                                    </StackPanel>
+                                </Expander>
+                             </StackPanel>
+                        </GroupBox>
+
+                        <Button Height="24" Margin="5" Name="buttonProcessImage" Click="buttonProcessImage_Click">
+                            Process Image
+                        </Button>
+                    </StackPanel>
+                </GroupBox>
+            </StackPanel>
+            </Border>
+            <StackPanel Width="1157" Height="704">
+                <ScrollViewer VerticalScrollBarVisibility="Auto"  HorizontalScrollBarVisibility="Auto" Grid.Column="1"  Grid.Row="1" Margin="0,0,12,7" Height="699" Width="1113">
+                    <StackPanel Name="stackPanelHorizontal" Orientation="Horizontal">
+                        
+                    </StackPanel>
+                </ScrollViewer>
+
+
+            </StackPanel>
+        </StackPanel>
+
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF2B0404" Offset="0.993" />
+                <GradientStop Color="White" Offset="0" />
+            </LinearGradientBrush>
+        </Grid.Background>
+    </Grid>
+</Window>

@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="4892FDC0-6267-433E-8C28-11F2C3DD8B44" ModuleId="Octree_ZGTR_WPFApp" />
+  <Module PersistentId="6C67C1D8-35D4-44A8-8362-5BF58997F4F7" ModuleId="ConsoleApplicationTest_Octree" />
+  <Module PersistentId="764730EB-1D2D-44C4-B620-2699F9300EFC" ModuleId="ZGTR_LosslessCompresion" />
+</Modules>
