@@ -1,4 +1,4 @@
-# LossCompEngine
+# Lossless Compression Engine
 
 <br/><strong>Breif</strong>
 <br/>This solution serves as an implementation of lossless compression algorithms in a Mulimedia Course I did back in 2011.
