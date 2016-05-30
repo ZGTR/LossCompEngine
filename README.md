@@ -16,5 +16,14 @@ The previous approaches are widly discussed throughout the internet. Ntn more ne
 <strong>User Interface</strong>
 <br/>Inside the solution you can find a friendly user interface you can interact with and see how things are compressed/decompressed.
 
-![alt tag](https://raw.githubusercontent.com/ZGTR/LossCompEngine/Picture0.png)
+<br/>To show off how algorithms work, the user can manipulate images or texts through compression/ decompression:
+![alt tag](https://raw.githubusercontent.com/ZGTR/LossCompEngine/master/Picture0.png)
 
+<br/>For images, you can see the resultant compressed images to compare, etc.
+![alt tag](https://raw.githubusercontent.com/ZGTR/LossCompEngine/master/Picture1.png)
+
+<br/>A left panel shows details about how data is compressed and how much time it took:
+![alt tag](https://raw.githubusercontent.com/ZGTR/LossCompEngine/master/Picture2.png)
+
+<br/>The same for texts:
+![alt tag](https://raw.githubusercontent.com/ZGTR/LossCompEngine/master/Picture3.png)
