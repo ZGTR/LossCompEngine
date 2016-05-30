@@ -12,3 +12,7 @@
 <li/>LZW
 <li/>Arithmetic Coding
 The previous approaches are widly discussed throughout the internet. Ntn more needed here.
+
+<strong>User Interface</strong>
+<br/>Inside the solution you can find a friendly user interface you can interact with and see how things are compressed/decompressed.
+
